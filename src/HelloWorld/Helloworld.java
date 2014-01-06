@@ -10,6 +10,7 @@ public class Helloworld {
 		variable1 = 1;
 		variable2 = 2;
 		int v = 4;
+		/*comment is this.*/
 		variable3 = variable1 + variable2 +v;
 		System.out.println(variable3);
 		return 0;
